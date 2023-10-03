@@ -1,0 +1,14 @@
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/bin/Debug/net7.0/HelloConsole1
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/bin/Debug/net7.0/HelloConsole1.deps.json
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/bin/Debug/net7.0/HelloConsole1.runtimeconfig.json
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/bin/Debug/net7.0/HelloConsole1.dll
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/bin/Debug/net7.0/HelloConsole1.pdb
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/obj/Debug/net7.0/HelloConsole1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/obj/Debug/net7.0/HelloConsole1.AssemblyInfoInputs.cache
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/obj/Debug/net7.0/HelloConsole1.AssemblyInfo.cs
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/obj/Debug/net7.0/HelloConsole1.csproj.CoreCompileInputs.cache
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/obj/Debug/net7.0/HelloConsole1.dll
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/obj/Debug/net7.0/refint/HelloConsole1.dll
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/obj/Debug/net7.0/HelloConsole1.pdb
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/obj/Debug/net7.0/HelloConsole1.genruntimeconfig.cache
+/Users/elizavetadzera/Desktop/C#/HelloConsole1/obj/Debug/net7.0/ref/HelloConsole1.dll
